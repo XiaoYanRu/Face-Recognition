@@ -1,3 +1,3 @@
 # Face-Recognition
 Face-Recognition
-#老师，数据量太大了，传不上来
+# 老师，这里还有两个csv文档（分别是数据集train.csv和通过pandas读取数据集提炼出来的只包含feature特征的data.csv）和三个图片文件夹，都有几万张（分别是训练集cnn_train和验证集cnn_val，这两个图片集内的图片都是通过picture文件夹内的图片拆分出来的，这样可以一部分用于做训练另一部分来做验证），数据太大了，传不上来
